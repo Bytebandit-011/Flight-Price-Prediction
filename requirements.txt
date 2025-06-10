@@ -5,3 +5,4 @@ flask-wtf
 scikit-learn==1.6.1
 joblib==1.4.0 
 gunicorn
+xgboost==3.0.1
