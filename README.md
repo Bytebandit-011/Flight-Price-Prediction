@@ -3,8 +3,8 @@
 
 A machine learning web application that predicts flight fares based on various features like airline, route, departure time, and more. Built with Flask and deployed for easy access.
 
-## 🚀 Live Demo
-
+## 🚀 Live Demo Link
+https://flight-price-prediction-hspw.onrender.com
 
 
 ## 📋 Table of Contents
