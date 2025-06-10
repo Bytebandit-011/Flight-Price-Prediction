@@ -1,6 +1,4 @@
 
-# Flight Fare Prediction Model: Flask Deployment
-
 # ✈️ Flight Fare Prediction Model: Flask Deployment
 
 A machine learning web application that predicts flight fares based on various features like airline, route, departure time, and more. Built with Flask and deployed for easy access.
