@@ -160,6 +160,7 @@ flight-fare-prediction/
 
 
 ### Prediction Form
+![image](https://github.com/user-attachments/assets/777f6d76-360e-4f8e-b207-e5f4663a6d5a)
 
 
 ## 🔮 Future Enhancements
