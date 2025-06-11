@@ -162,9 +162,6 @@ flight-fare-prediction/
 ### Prediction Form
 
 
-### Results Page
-
-
 ## 🔮 Future Enhancements
 
 - [ ] **Price Alerts**: Notify users when fares drop
