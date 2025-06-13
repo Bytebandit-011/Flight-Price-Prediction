@@ -150,8 +150,6 @@ flight-fare-prediction/
 
 
 
-### Deployment
-- 
 
 ## 📱 Screenshots
 
@@ -171,9 +169,6 @@ flight-fare-prediction/
 - [ ] **International Flights**: Expand to international routes
 
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
 ## 🙏 Acknowledgments
